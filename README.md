@@ -69,3 +69,5 @@ Based off of this source dataset, the following analyses are performed using **p
   * Purchase Count
   * Item Price
   * Total Purchase Value
+
+Lastly, some key observations are noted at the end of the jupyter notebook file.
